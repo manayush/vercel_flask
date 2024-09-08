@@ -95,3 +95,4 @@ alembic/
 venv/
 
 keys.txt
+.vercel
